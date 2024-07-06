@@ -53,7 +53,7 @@ function Project() {
             </a>
             {/* Project 3 - Portfolio */}
             <a 
-              href="https://example.com/portfolio"
+              href="https://nirav33.github.io/Portfolio/"
               target="_blank" 
               rel="noopener noreferrer"
               className="block bg-gray-800 rounded-lg shadow-lg overflow-hidden transform transition duration-500 hover:scale-105 hover:shadow-xl"
