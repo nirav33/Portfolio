@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.7b2244ac.css",
+    "main.js": "/Portfolio/static/js/main.645c9593.js",
+    "static/media/Learnify.png": "/Portfolio/static/media/Learnify.a6c56d2ecde365c89c69.png",
+    "static/media/ProfilePic.jpg": "/Portfolio/static/media/ProfilePic.0fd70e25e6e68a145bc2.jpg",
+    "static/media/AmazonHackathon.png": "/Portfolio/static/media/AmazonHackathon.105a2a8787a1a9e319bd.png",
+    "static/media/WebAThon.png": "/Portfolio/static/media/WebAThon.6b86ec83b6c822d8c03b.png",
+    "static/media/BookStore.png": "/Portfolio/static/media/BookStore.801bf2e0494990b964ed.png",
+    "static/media/Portfolio.jpg": "/Portfolio/static/media/Portfolio.82b4cbf5a0d6cd457321.jpg",
+    "index.html": "/Portfolio/index.html",
+    "main.7b2244ac.css.map": "/Portfolio/static/css/main.7b2244ac.css.map",
+    "main.645c9593.js.map": "/Portfolio/static/js/main.645c9593.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b2244ac.css",
+    "static/js/main.645c9593.js"
+  ]
+}
