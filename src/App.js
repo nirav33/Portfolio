@@ -6,6 +6,7 @@ import Project from "./components/Project";
 import Eduaction from "./components/Eduaction";
 import Achievement from "./components/Achievement";
 import Contact from "./components/Contact";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
         <Eduaction></Eduaction>
         <Achievement></Achievement>
         <Contact></Contact>
+        <Footer></Footer>
       </div>
     </Router>
   );
