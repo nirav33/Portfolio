@@ -7,6 +7,7 @@ import Eduaction from "./components/Eduaction";
 import Achievement from "./components/Achievement";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
+import Skill from "./components/Skill";
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
         <Navbar></Navbar>
         <Home></Home>
         <Project></Project>
+        <Skill></Skill>
         <Eduaction></Eduaction>
         <Achievement></Achievement>
         <Contact></Contact>

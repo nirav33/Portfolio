@@ -23,7 +23,7 @@ function Navbar() {
   return (
     <>
       <div className="fixed top-0 left-0 w-full z-50 bg-gradient-to-r from-gray-900 via-blue-900 to-gray-900 shadow-lg">
-        <div className="container mx-auto px-8 py-4 flex justify-between items-center">
+        <div className="container mx-auto px-7 py-4 flex justify-between items-center">
           <Link to="/" className="md:text-3xl text-xl font-extrabold text-teal-100">
             <span className="md:text-4xl text-2xl text-teal-300">N</span>irav <span className="md:text-4xl text-2xl text-teal-300">P</span>armar
           </Link>
@@ -47,7 +47,7 @@ function Navbar() {
           </button>
 
           {/* Desktop navigation links */}
-          <nav className={`hidden md:block space-x-8 mr-12`}>
+          <nav className={`hidden md:block space-x-9 mr-10`}>
             <button
               onClick={() => handleScrollToSection("home")}
               className={navLinkClasses()}
@@ -59,6 +59,12 @@ function Navbar() {
               className={navLinkClasses()}
             >
               Project
+            </button>
+            <button
+              onClick={() => handleScrollToSection("skill")}
+              className={navLinkClasses()}
+            >
+              Skill
             </button>
             <button
               onClick={() => handleScrollToSection("education")}
@@ -97,6 +103,12 @@ function Navbar() {
               >
                 Project
               </button>
+            <button
+              onClick={() => handleScrollToSection("skill")}
+              className={navLinkClasses()}
+            >
+              Skill
+            </button>
               <button
                 onClick={() => handleScrollToSection("education")}
                 className={navLinkClasses()}
